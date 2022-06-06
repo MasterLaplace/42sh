@@ -1,0 +1,23 @@
+# Object files
+*.o
+*~
+*#
+*.tmp
+
+# Libraries
+*.lib
+*.a
+*.pdf
+
+# Executables
+*.out
+42sh
+
+# Development
+.vscode
+.idea
+*.gcno
+*.gcda
+vgcore.*
+
+# C Files

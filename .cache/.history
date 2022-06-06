@@ -1,0 +1,1035 @@
+17:21 history
+17:22 history
+17:24 history
+18:04 ls
+18:09 ls
+18:09 ls
+18:09 exit
+18:11 ls
+18:11 ls
+18:11 mù
+18:11 ls | grep 42sh
+18:12 ls
+18:12 ls
+18:13 clear
+18:13 exit
+18:13 ls
+18:13 ls
+18:13 ls | 42sh
+18:13 ls
+18:14 exit
+18:14 ls
+18:14 ls
+18:14 ls | grep 42
+18:14 ls -l
+18:15 ls -l | grep 26
+18:22 history
+18:23 history
+18:24 ls
+18:24 history
+18:26 history
+18:35 ls
+18:35 ls
+18:35 env
+18:35 ls
+18:35 ls
+18:35 exit
+18:35 exit 84
+18:35 history
+18:36 git pull
+18:43 r
+18:43 exit
+18:45 meme
+18:45 meme
+18:45 meme
+18:45 meme
+18:45 meme
+18:45 meme
+18:45 meme
+18:45 meme
+18:46 meme
+18:46 meme
+18:46 meme
+18:46 meme
+18:46 meme 64 645
+18:46 meme 5
+18:46 meme
+18:46 meme 6
+18:47 meme
+18:47 meme
+18:47 meme 8
+18:48 exit
+18:48 exit
+18:49 meme
+18:49 meme
+18:49 meme
+18:49 meme
+18:49 meme
+18:49 meme
+18:50 exit
+18:50 meme
+18:50 meme
+18:50 meme
+18:50 meme
+18:50 meme
+18:50 meme
+18:50 meme
+18:50 meme
+18:54 git pull
+18:54 exit
+19:26 exit
+19:30 prompt -c GREEN
+19:31 prompt -a CYAN
+19:31 prompt -a CYAN
+19:32 prompt -a WHITE
+19:32 prompt -c RED
+19:33 prompt -h
+19:34 ls
+19:34 ls
+19:34 ls;ls
+19:34 ls|ls
+19:34 ls|grep 42sh
+19:34 meme
+19:34 meme
+19:36 exit
+19:38 prompt -h
+19:38 prompt -c RED
+19:39 prompt -c RED
+19:44 prompt -c TEST
+19:49 make fclean
+19:49 exit
+19:56 !150
+19:59 !150
+20:14 !150
+20:16 !150
+20:17 !150
+20:18 !150
+20:18 !150
+20:19 !150
+20:19 !150
+20:20 !150
+20:20 !150
+20:21 !150
+20:22 !150
+20:23 !150
+20:24 !150
+20:26 !150
+20:26 !150
+20:27 !150
+20:27 !150
+20:28 !150
+20:29 !150
+20:30 !150
+20:32 !150
+20:33 !150
+20:34 !150
+20:34 !150
+20:35 !150
+20:35 ls; !150
+20:37 ls; !150
+20:40 meme
+20:46 !150
+21:08 !!
+21:12 !!
+21:12 !!
+21:16 !!
+21:18 !!
+21:56 !!
+21:56 history
+21:56 !!
+21:57 exit
+21:59 history
+21:59 !!
+22:02 history
+22:02 history
+22:04 history
+22:02 22:04exit
+22:05 history
+22:05 history
+22:08 exit
+22:09 exithistory
+22:15 history
+22:15 ls
+22:15 history
+22:15 history
+22:15 exit
+22:18 history
+22:19 history
+22:19 exit
+09:11 prompt -c RED
+09:11 prompt -c BLUE
+09:16 prompt -c RED
+09:16 prompt -h
+09:17 prompt -c RED
+09:17 prompt -c RED
+09:18 prompt -c BLUE
+09:18 prompt -h
+09:23 prompt -h
+09:23 prompt -h
+09:24 make debug
+09:25 prompt -h
+09:25 ptompt -h
+09:25 prompt -h
+09:26 prompt -h
+09:26 prompt -h
+09:28 prompt -h
+09:28 prompt -h
+09:29 prompt -h
+09:29 prompt -h
+09:29 ls
+09:29 ls
+09:29 prompt -h
+09:35 prompt -h
+09:35 prompt -h
+09:36 prompt -d
+09:37 prompt -h
+09:37 prompt -h
+09:38 pprompt-h
+09:38 prompt-h
+09:38 prompt -h
+09:38 prompt -h
+09:41 clear
+09:41 clear
+09:41 prompt -h
+09:41 prompt -h
+09:42 prompt
+09:43 prompt -c RED
+09:43 prompt -c GREEN
+09:49 clear
+09:49 gdb
+09:50 prompt -c RED
+09:51 prompt -c GREEN
+09:51 clear
+09:51 prompt -c RED
+09:52 prompt -c BLUE
+09:57 gdb
+09:57 ls
+09:57 prompt -c RED
+09:58 prompt -c RED
+10:01 prompt -c RED
+10:01 prompt -c GREEN
+10:03 cleae
+10:03 clear
+10:03 clear
+10:03 prompt -h
+10:04 prompt -h
+10:04 clear
+10:04 prompt -h
+10:04 prompt -h
+10:04 clear
+10:06 clear
+10:06 m
+10:07 prompt -c RED
+10:07 prompt -t BLUE
+10:07 prompt -a GREEN
+10:07 prompt -c BLUE -a RED -p OOO
+22:24 ls + 6h
+22:48 set
+22:48 set toto=42
+22:48 set
+22:48 $toto
+22:50 exit
+22:55 set
+22:55 set toto=42
+22:55 set
+22:55 42
+22:58 exit
+22:58 exit
+23:00 OK!
+08:35 ls
+08:35 ls
+08:35 ls
+08:35 env
+08:35 env
+08:35 ls;ls
+08:36 clear
+08:36 prompt -c ED
+08:36 prompt -c RED
+08:36 prompt -h
+08:38 ls;ls
+08:38 lsls;
+08:39 ls
+08:39 ls
+08:39 ;ls
+08:40 ls
+08:40 ls
+08:40 ls
+08:40 ls
+08:40 ls
+08:40 ls
+08:40 ls;lsl
+08:40 ls;ls
+08:40 ;ls
+08:42 ;ls
+08:46 ;ls
+08:48 exit 84
+08:48 exit
+08:48 exit 1
+08:49 exit
+08:49 exit 1
+08:49 exit 64
+08:51 exit 84
+08:52 yguds
+08:52 exit 84
+08:52 exit 84
+08:52 exit 84
+08:54 exit -1
+08:56 set toto=42
+08:56 set
+08:56 env
+08:57 set toto=42
+09:03 42
+09:03 $toto
+09:03  /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-hdnbvb5z.1q0
+09:04 set toto=42
+09:05 42
+09:08 test
+09:08 test
+09:08 ls
+09:08 ls
+09:09 r
+09:09 r
+09:09 eozfr7
+09:09 ezfqf
+09:09 set toto=42
+09:09 set
+09:09 42
+09:10 test
+09:10 zrgeesg
+09:10 set tata=zrgeesg
+09:10 zrgeesg
+09:10 set
+09:10 tcsh
+09:11 exit
+09:11 exit
+09:11 exit
+10:18 ls
+10:18 ls;ls
+10:18 ls|grep lib
+10:20 ls|grep lib
+10:23 ls|grep lib
+10:24 r
+10:24 ls|grep lib
+10:25 ls -l
+10:25 ls -l
+10:25 ls -l | grep 27
+10:26 ls | grep lib
+10:28 ls | grep s
+10:31 ls | grep s
+10:33 ls | grep s
+10:36 ls | grep s
+10:37 ls | grep s
+10:37 ls | grep s
+10:47 ls | grep s
+10:50 ls | grep s
+10:56 ls | grep s
+10:56 ls | grep s | grep i
+10:59 ls || grep s
+10:59 exit
+11:21 meme 8
+11:21 meme
+11:22 meme
+11:22 meme 8
+11:22 meme 5
+11:22 meme 6
+11:23 meme 7
+11:23 meme 1
+11:23 meme 2
+11:23 meme 3
+11:23 meme -h
+11:23 c
+11:23 c
+11:23 clear
+11:23 meme 5
+11:23 exit
+11:34 setenv ok 42
+11:34 setenv
+11:34 setenv ok 43
+11:35 setenv
+11:35 setenv pl
+11:35 setenv
+11:35 setenv pl 42
+11:35 setenv
+11:37 exit
+11:42 ls;ls
+11:42 lsls
+11:42 ls;make
+11:48 prompt -h
+11:49 promt -h
+11:49 prompt -h
+11:49 prompt -h
+11:49 prompt -h
+11:49 prompt -h
+11:49 exit
+11:50 prompt -h
+11:50 prompt -h
+11:50 promt -h
+11:50 prompt -h
+11:50 exit
+11:52 prompt -h
+11:52 prompt -h
+11:53 prompt -h
+11:53 prompt -h
+11:54 prompt -h
+11:54 prompt -h
+11:54 prompt -h
+11:55 env
+11:55 exit
+11:56 exit
+11:56 env
+11:56 ebv
+11:56 env
+11:56 exit
+12:06 alias
+12:06 alias rgt 945
+12:12 ls | grep s
+12:14 ls | grep s
+12:14 ls | grep s | grep i
+12:15 ls
+12:15 ls;ls
+12:25 exit
+12:25 ls | grep s | grep i
+12:35 ls | grep s | grep i
+12:36 ls | grep s
+12:38 ls
+12:38 exit 84
+12:47 meme
+12:47 meme
+12:47 meme 8
+12:48 meme
+12:48 clear
+12:48 meme
+12:48 meme
+12:48 clear
+12:48 meme
+12:48 meme
+12:48 meme
+12:48 meme 7
+12:48 meme -h
+13:03 ls | grep s | grep i ; ls
+13:04 ls | grep s; ls
+13:20 ls
+13:20 ls
+13:20 ls;ls
+13:20 lsls
+13:21 ls;ls
+13:32 exit
+13:55 exit
+14:07 ls;
+14:08 ls; ls |grep s | grep i
+14:09 ls; ls|grep s;ls
+14:11 ls;ls|grep s
+14:12 ls;ls|grep s;ls
+14:12 ls;ls|grep s|grep i;ls
+14:12 meme
+14:14 ls;ls -l|grep s|grep i; ls
+14:15 prompt -h
+14:15 ebv
+14:15 env
+14:55 clear
+14:55 exit
+20:42 ls
+15:17 ls;ls|grep s
+15:17 c
+15:17 exit
+15:56 ls
+15:56 env
+15:56 meme
+15:56 meme; ls |grep s; meme
+15:57 prompt -c red
+16:02 clear
+16:02 exit
+16:05 meme
+16:05 meme; ls|grep s; meme
+16:05 prompt -c red
+16:06 clear
+16:06 exit
+20:36 clear
+20:36 ls
+20:37 history
+20:37 !809
+21:10 history
+21:10 !813
+21:10 meme
+21:10 :1
+21:11 clear
+21:14 a
+21:14 ls -l
+21:14 exit
+21:14 cd ; pwd
+21:14 cat toto
+21:14 exitt
+21:14      ls             -l      -all
+21:14 \tls\t-l\t-all\t
+21:14 \tls      \t   -l  \t-all      \t
+21:14 cd / ; pwd
+21:14 cd toto tata
+21:14 cd fail_dir
+21:14 unsetenv HOME ; cd
+21:14 unsetenv OLDPWD ; cd -
+21:14 setenv _toto tata
+21:14 setenv 8toto tata
+21:14 setenv toto tata titi
+21:14 setenv toto= tata
+21:14 setenv toto9 tata
+21:14 setenv Toto9
+21:14 setenv Toto
+21:14 setenv Abc Abc
+21:14 setenv Zbc Zbc
+21:14 setenv abc abc
+21:14 setenv zbc Zbc
+21:14 unsetenv
+21:14 unsetenv tototototototo
+21:14 unsetenv PATH
+21:14 unsetenv PATH HOME OLDPWD PWD LESS
+21:14 exit 0
+21:14 exit 1
+21:14 exit -1
+21:14 exit 999999
+21:14 exit -999999
+21:14 exit -abc
+21:14 exit abc
+21:14 exit -18abc
+21:14 exit 12; ls
+21:14 exit 12; exit 123
+21:14 exit 12; exit -a123
+21:14 exit -
+21:14 unsetenv PATH ; /bin/ls /
+21:14 ls / | wc -l | cat -e
+21:14 ls / | cat -e | cat -e | cat -e | cat -e | cat -e
+21:14 ls / | cat -e | cat -e
+21:14 ls /|cat -e|cat -e
+21:14 42sh
+21:14 ../bin/ls
+21:14 ./bin/ls
+21:14 /bin/ls
+21:14 ./lib
+21:14 ls ; ls ; ls ; ls ; ls ; ls ; ls
+21:14 ls;ls;ls;ls;ls;ls;ls
+21:14 ls;exit 34;ls
+21:14 unsetenv PATH; setenv PATH /bin/ ; ls /
+21:14 ./ls
+21:18 prout
+21:18 prout
+21:19 prout
+21:22 a
+21:22 ls -l
+21:22 exit
+21:22 cd ; pwd
+21:22 cat toto
+21:22 exitt
+21:22      ls             -l      -all
+21:22 clear
+21:22 cd ..
+21:23 clear
+21:23 cd ..
+21:23 cd
+21:23 cd
+21:24 cd src
+21:24 ls
+21:24 cd
+21:24 cd
+23:23 history
+23:24 make fclean
+21:29 f
+21:32 history
+21:32 meme
+21:32 clear
+21:33 history
+21:33 !900
+21:33 !800
+21:33 ! 600
+21:33 !900
+21:34 history
+21:34 ls
+21:40 history
+21:40 exit
+21:41 exit
+21:41 exit
+21:45 a
+21:45 ls -l
+21:45 exit
+21:45 cd ; pwd
+21:45 cat toto
+21:45 exitt
+21:45      ls             -l      -all
+21:45 \tls\t-l\t-all\t
+21:45 \tls      \t   -l  \t-all      \t
+21:45 cd / ; pwd
+21:45 cd toto tata
+21:45 cd fail_dir
+19:19 exit
+19:19 history
+19:19 cd
+19:22 exit
+20:23 history
+20:31 unsetenv HOME ; cd
+20:44 clear
+20:44 history
+20:46 exit
+20:50 history
+20:57 history
+21:02 history
+21:05 clear
+21:07 clear
+21:08 [C
+21:09 [C
+21:09 history
+21:10 history
+21:10 exit
+21:19 history
+21:19 history
+21:20 history
+21:20 history
+21:21 history
+22:28 env | grep USER
+23:24 quit
+23:24 bot
+23:24 bot -a
+23:24 quit
+23:24 bot -d
+23:24 quit
+23:25 exit
+23:26 quit
+23:26 bot -a
+23:27 quit
+23:28 quit
+23:29 bot -a
+23:30 quit
+23:33 bot -a
+23:35 ls
+23:35 s,kdff
+23:37 egthr fezf
+23:39 quit
+23:40 exit
+23:41 ls
+23:41 afezf
+23:42 zrfgre
+23:43 err
+23:43 rgrh
+23:43 zerg
+23:44 ezreger
+23:49 aefr
+00:15 bot -a
+00:16 it's possible to have some help ?
+00:16 hi Jason
+00:16 go away
+00:16 bot -d
+00:17 go away
+00:17 test
+00:18 close
+00:26 bot -a
+00:27 bot -r test
+00:28 bot -r test
+00:29 bot -a
+00:32 bot -r test
+00:32 bot -a
+00:33 bot -r test
+00:33 bot -a
+00:33 quit
+00:33 bot -r bonjour
+00:34 help
+00:34 bot -d
+00:34 alias
+00:37 alias
+00:37 alias toto 42
+00:37 alias
+00:38 alias tata 45
+00:38 alias
+00:39 alias
+00:40 alias tota 42
+00:40 alias
+00:41 alias ok 84
+00:41 alias
+00:41 alias efz 52
+00:41 alias
+00:42 alias z 5
+00:42 alias
+00:42 alias erg 451
+00:42 alias
+00:44 alias
+00:44 alias toto 42
+00:44 als
+00:44 alias
+00:44 alias tata 54
+00:44 alias
+00:45 alias toto 42
+00:45 alias tata 54
+00:46 alias
+01:07 exithistory
+01:07 exit
+01:08 exit!100
+01:22 exit;ls
+01:26 exit;ls
+01:26 ls;exit
+01:26 ls;exit
+01:26 ls
+01:26 ls;ls
+01:27 ls;ls;ls;ls
+01:27 ls;ls;ls;ls; ls -l
+01:27 ls;ls;ls;ls; ls -l | grep s
+01:28 ls;ls;ls;ls; ls -l | grep s | grep i
+02:07 ls;42;ls
+02:07 r
+02:07 r
+02:08 ls; exit 42
+02:08 alias l alias -l
+02:08 aalias -lias
+02:09 alias -l
+02:09 alias
+02:09 l
+02:09 alias l ls -
+02:09 ls -
+02:10 als -ias ls -l
+02:10 als -ias
+02:10 ls -
+02:10 ls -l
+02:10 als -lais
+02:10 als -lias
+02:11 exit
+02:11 ls -l; alias
+02:15 ls -l; alias
+02:17 ls -l; alias
+02:17 ls -l | grep s
+02:20 ls -l|grep s
+02:25 ls -l; grep s
+02:25 ls -l|grep s
+02:27 l|grep s|grep i; ls; exit 42
+02:39 ls -l|grep s|grep i;ls;exit 42
+02:40 ls -l|grep s | grep   i; ls;exit 42
+02:41 zad
+02:42 test
+02:43 test_to_the_end
+02:45 test_to_end
+02:46 test_node
+02:48 text
+02:50 testf
+03:01 retrt
+03:02 tdyhfxgg
+03:05 bot -a
+03:07 bot -a
+03:08 bot -r il faut dormir la nuit
+03:08 hello
+03:09 help
+03:09 quit
+03:11 bot -d
+13:48 ls
+13:48 history
+13:48 history
+13:48 mù
+13:49 !0
+13:49 !
+13:49 !
+13:49 exit
+13:49 ls / | cat -e | cat -e
+13:49 history
+13:49 ls > tmp
+13:49 cat tmp
+13:53 ls > tmp
+13:54 ls
+13:54 ls > tmp
+13:55 ls > tmp
+14:06 ls > tmp
+14:06 ls
+14:11 ls > tmp
+14:11 ls
+14:12 ls > tmp
+14:12 ls
+14:13 ls > tmp
+14:13 ls
+14:13 cmp
+14:14 Makefile
+14:14 cat Makefile
+14:14 cat tmp
+14:26 ls > tmp
+14:26 ls
+14:26 ls
+14:26 ls
+14:26 ls > tmp
+14:27 ls > tmp
+14:28 ls > tmp
+14:29 ls > tmp
+14:30 ls > tmp
+14:30 ls > tmp
+14:30 ls > tmp
+14:33 ls -l > tmp
+14:35 ls > tmp
+14:36 ls > tmp
+14:38 ls > tmp
+14:41 ls > tmp
+14:43 ls -l > tmp
+14:43 ls
+14:43 cat tmp
+14:43 ls -l > tmp
+14:44 ls > tmp
+14:45 ls > tmp
+14:46 ls > tmp
+14:46 cat tmp
+14:46 ls > tmp
+14:47 ls > tmp
+14:47 ls > tmp
+14:48 ls > tmp
+14:49 ls > tmp
+14:54 ls > tmp
+14:55 ls > tmp
+14:58 ls > tmp
+15:01 ls > tmp
+15:02 make
+15:02 ls > tmp
+15:03 ls > tmp
+15:03 cat tmp
+15:04 ls > tmp
+15:05 ls > tmp
+15:06 ls > tmp
+15:06 ls > tmp
+15:07 ls > tmp
+15:07 ls > tmp
+15:07 cat tmp
+15:07 ls > tmp
+15:08 cat tmp
+15:08 ls > tmp
+15:08 ls > tmp
+15:09 ls > tmp
+15:09 ls > tmp
+15:10 ls > tmp
+15:10 cat tmp
+15:10 mp > tmp
+15:10 cat tmp
+15:11 ls > tmp
+15:11 cat tmp
+15:11 ls -l > tmp
+15:11 cat tmp
+15:12 cat history
+15:12 ls
+15:12 ls
+15:12 ls
+15:12 sl
+15:12 ls
+15:12 ls
+15:12 ls
+15:12 ls
+15:12 ls
+15:12 ls
+15:12 ls
+15:12 ls
+15:13 ls
+15:13 ls -l > tmp
+15:13 cat tmp
+15:13 ls >> tmp
+15:13 cat tmp
+15:13 tmp2 < ls
+15:14 tmp3 < ls
+15:14 ls
+20:29 tout va bien
+20:29 bot -a
+20:29 tout va bien
+20:31 exit
+20:31 tout va bien
+20:32 bot -a
+20:32 tout va bien
+20:32 exit
+20:32 bot -a
+20:32 tout va bien
+20:33 bot -r roger
+20:33 ls
+20:33 bot -r Roger
+20:33 ls;ls
+20:34 bot -d
+20:34 ls
+20:34 ls
+20:34 bot -a
+20:35 help
+20:36 quit
+20:36 hello cher
+21:16 exit
+21:16 ls
+21:16 bonjour comment tu vas
+21:18 salut ma couille
+21:18 bot -a
+21:19 salut
+21:19 bonjour
+21:19 ls;ls
+21:19 ls
+21:19 bot -r Roger
+21:19 t'est le meilleur roger
+21:20 t'est
+21:20 sinon tranquille ?
+21:20 j'ai les couille en feu
+21:20 j'ai les couilles en feu
+21:21 j'ai
+21:21 j'ai les couilles on fire
+21:21 j'ai
+21:21 salut
+21:22 bot -d
+21:22 ls
+21:22 salut
+21:25 exit
+21:26 meme
+21:26 meme
+21:26 meme
+21:26 meme
+21:26 meme
+21:39 exit
+07:58 bot -a
+08:15 salut ça va ?
+08:15 non et toi ?
+08:15 je sais pas
+08:16 je commence à peine donc je peux rien te dire de plus
+08:16 tu sais la vie c'est compliqué
+08:16 parfois on crève et c'est tout
+08:16 mais bon
+08:17 je t'apprends rien
+08:17 tu connais la vie comme moi
+08:17 elle est compliqué
+08:17 difficile à gérer
+08:18 sinon comment tu vas ?
+08:18 moi ça vas super
+08:18 et toi ?
+08:18 bah bof
+08:18 coussi coussa
+08:18 tu sais
+08:18 ouaip je sais
+08:18 mais bon
+08:19 on y peut rien quand on fait pas d'efforts
+08:19 oon
+08:19 on
+08:19 tu
+08:19 parfois
+08:20 ls ; ls
+08:20 ls
+08:20 j'aimerais te rajouter des fonctionalité mais je sais pas quoi
+08:20 j'aimerais
+08:20 ls
+08:21 /bin/ls -l
+08:21 bin/ls
+08:21 meme 8
+08:22 t'est 
+08:22 t'es toujours aussi drôle
+08:22 salut ça vas ?
+08:22 salut
+08:22 pas ouf ouf
+08:22 pas
+09:36 salut
+09:36 toi
+09:36 oui
+09:36 oui test
+09:36 oui
+09:36 meme
+09:37 meme
+09:37 meme
+09:37 meme
+09:37 meme 8
+09:37 meme -h
+09:37 meme 7
+09:37 meme 1
+09:37 meme -h
+09:37 meme 2
+09:37 meme 4
+09:38 cal
+09:38 cal 2022
+09:38 cal
+09:38 cal 2022
+09:38 ls ; ls
+09:38 ls
+09:38 ls | grep s
+09:39 ls | grep s |grep i
+09:39 cd
+09:41 cd /
+09:47 exit
+09:47 cd /
+07:42 ls
+07:42 ls;ls
+07:42 ls > tmp
+07:43 exit 42
+07:46 ;
+07:47 ;;
+07:47 ls;;ls
+07:47 ls||ls
+07:47 ls||grep s
+07:48 ls|grep s
+07:54 exit
+07:55 meme
+07:55 meme
+07:55 meme
+07:55 meme 7
+07:55 meme 5
+07:56 meme
+07:56 meme
+07:56 meme 2
+07:56 meme 3
+07:56 meme
+07:57 meme
+07:57 meme
+07:57 meme
+07:57 meme
+07:57 meme
+07:57 mme
+07:57 meme
+07:57 meme
+07:58 	alias m meme
+07:58 meme
+07:58 meme
+07:58 meme
+07:58 meme
+07:58 meme
+07:58 meme
+07:58 meme
+07:58 meme
+07:58 meme
+07:58 memem
+07:58 meme
+07:58 meme
+07:58 meme
+07:58 meme
+07:58 meme
+07:58 meme
+07:58 meme
+07:58 meme
+07:58 meme
+07:58 meme
+07:58 meme
+07:58 $meme
+07:58 meme
+07:58 memem
+07:58 ù
+07:58 meme
+07:58 meme
+07:58 meme
+07:58 meme
+07:58 meme
+07:58 meme
+07:58 meme
+07:58 meme
+07:58 meme
+07:58 meme
+07:58 meme
+07:58 exit
+08:38 alias
+08:39 42
+08:48 exit
+08:59 false
+09:00 ls
+09:20 ls -l
+09:20 ls
+09:20 meme 7
+09:20 meme
+09:21 meme
+09:21 meme 5
+09:21 meme -h
+09:21 meme 6
+09:21 meme 4
+09:21 meme 8
+09:21 meme
+09:22 bot -a
+09:22 ls
+09:22 bot -r Roger
+09:22 bot
+09:22 prompt -h
+09:23 prompt -c jaune
+09:25 prompt -c yellow
+09:25 ls
+17:33 ./42sh -u
+17:34 make fclean
+17:35 ls
+17:35 ls -ls
+17:36 exit 84
