@@ -10,10 +10,10 @@
     #include <stdarg.h>
     #include <stddef.h>
 
-typedef struct my_printall {
+typedef struct printall {
     char flag;
     void (*redirect)(va_list list);
-} all_print;
+} printall;
 
 //* It's a function that prints the string s.
 int my_printf(char *s, ...);

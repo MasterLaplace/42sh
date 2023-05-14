@@ -8,7 +8,7 @@
 #include "my.h"
 #include "my_printf.h"
 
-static const all_print test[] = {
+static const printall test[] = {
     {'c', &pchar},
     {'s', &pstr},
     {'e', &pstr_e},
